@@ -1,0 +1,28 @@
+{
+	"messages": [{
+			"payload": "Hey, how are you doing?",
+			"user": "1"
+		},
+		{
+			"payload": "I'm doing good, how about you?",
+			"user": "2"
+		},
+		{
+			"payload": "Good. What are your plans for the weekend?",
+			"user": "3"
+		},
+		{
+			"payload": "I am going to the beach",
+			"user": "4"
+		}
+	],
+	"users": [{
+			"id": 1,
+			"name": "John Doe"
+		},
+		{
+			"id": 2,
+			"body": "Niki Hulet"
+		}
+	]
+}
